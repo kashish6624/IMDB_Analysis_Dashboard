@@ -58,6 +58,5 @@ This Power BI dashboard provides a comprehensive analysis of movies from various
 
 - **Power BI** – Dashboard development & visualization  
 - **DAX / Power Query** – Data modeling and transformation  
-- **Data Sources:** You can find the dataset for this topic on Kaggle.
-
+- **Data Sources:** You can find the dataset for this topic on Kaggle or the one given in the repository itself.
 
