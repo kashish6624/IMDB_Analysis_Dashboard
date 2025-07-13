@@ -2,7 +2,7 @@
 This Power BI dashboard provides a comprehensive analysis of movies from various countries, languages, and genres, including profitability and scoring insights.
 ---
 <img width="1298" height="728" alt="Screenshot 2025-07-12 180027" src="https://github.com/user-attachments/assets/1e0ddc96-54c1-4465-a20a-950137cc73af" />
----
+---  
 ## Key Metrics
 
 - **Total Number of Movies:** 9,656  
